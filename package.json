@@ -1,0 +1,19 @@
+{
+  "name": "sei_collaboration_lab",
+  "version": "1.0.0",
+  "description": "Github Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnedarb/sei_collaboration_lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnedarb/sei_collaboration_lab/issues"
+  },
+  "homepage": "https://github.com/fnedarb/sei_collaboration_lab#readme"
+}
